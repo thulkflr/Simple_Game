@@ -28,6 +28,11 @@ If the rocket **hits a bird**, the player **loses one life**. The game ends when
 3. The game will launch immediately.
 4. Use the **arrow keys** to move the rocket and avoid the birds.
 
+## Screenshot 📸
+
+[Gameplay Screenshot](![image](https://github.com/user-attachments/assets/3fa2ac89-e2cd-4728-a2ef-17690814ec61)
+
+
 ---
 
 **Note:** This game was developed as a university project to demonstrate practical usage of C#, Windows Forms, and OOP concepts in building a simple interactive application.
